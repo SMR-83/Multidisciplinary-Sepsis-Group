@@ -1,2 +1,2 @@
 # Multidisciplinary-Sepsis-Group
- a website for the group https://www.multidisciplinarysepsisgroup.com
+ a website for the group www.multidisciplinarysepsisgroup.com
